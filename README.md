@@ -1,8 +1,8 @@
 # a-g-benson.github.io
 
-Personal website of Andrew G. Benson, Ph.D. — Energy Economist.
+Personal website of Andrew G. Benson, Ph.D., energy economist.
 
-Live at: https://a-g-benson.github.io
+Work-in-progress live at: https://a-g-benson.github.io
 
 ## Site structure
 
@@ -44,9 +44,3 @@ Upload the following files to the `files/` folder:
 - `Econ-158-F18.pdf`
 - `Pol-Sci-21A-S18.pdf`
 - `Pol-Sci-151H-S17.pdf`
-
-## Editing the site
-
-Each page is a plain HTML file. To update content, open the relevant `.html` file and edit the text between the tags. The `style.css` file controls all visual styling across every page.
-
-To update your bio, edit the marked section in `index.html`.
